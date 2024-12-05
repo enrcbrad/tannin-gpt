@@ -1,21 +1,32 @@
-# Food Safety Protocols
+# Food Safety Protocols - R638 Compliance
 
-## Temperature Controls
-- Cold foods: Below 41°F
-- Hot foods: Above 135°F
-- Cooking temperatures:
-  - Poultry: 165°F
-  - Ground meat: 160°F
-  - Whole cuts: 145°F
+## Certification Requirements
+- Certificate of Acceptability displayed
+- Medical certificates for food handlers
+- Regular health screenings
 
-## Storage
-- FIFO rotation
-- Label all items
-- Store raw below cooked
-- Cover and date all items
+## Temperature Control
+- Cold storage: Below 5°C
+- Hot holding: Above 63°C
+- Freezer: Below -18°C
 
-## Cleaning
-- Sanitize stations hourly
-- Full clean-down nightly
-- Weekly deep clean schedule
-- Monthly equipment maintenance
+## Storage Standards
+- FIFO system
+- 10cm off floor
+- Separate raw/cooked items
+- Label with dates
+- No expired products
+
+## Hygiene Practices
+- Hand washing stations maintained
+- Sanitizer concentrations checked
+- Pest control program
+- Waste management system
+- Daily cleaning schedule
+
+## Record Keeping
+- Temperature logs
+- Cleaning schedules
+- Pest control reports
+- Staff training records
+- Supplier documentation

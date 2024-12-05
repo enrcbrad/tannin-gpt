@@ -1,26 +1,39 @@
-# Employee Handbook
+# Employee Handbook - Tannin Restaurant Cape Town
 
-## Policies
-- Arrival 15 minutes before shift
-- Black pants, white pressed shirt
-- Name tag on left side
-- No cellphones on floor
-- Breaks: 30 minutes per 6-hour shift
+## Employment Rights (Per BCEA)
+- 45-hour maximum work week
+- 9 hours/day for 5-day week, 8 hours/day for 6-day week
+- Overtime: 1.5x pay (voluntary, max 10 hours/week)
+- Sundays: 2x pay if not normally worked
 
-## Safety
-- Report all accidents immediately
-- Wet floor signs mandatory
-- Know emergency exits
-- First aid kit locations
+## Leave Entitlements
+- Annual leave: 21 consecutive days
+- Sick leave: 30 days in 36-month cycle
+- Family responsibility: 3 days
+- Maternity: 4 months
 
-## Payment
-- Bi-weekly pay periods
-- Tips distributed daily
-- Credit card tips on paycheck
-- Report cash tips accurately
+## Remuneration
+- Minimum wage per hospitality sector determination
+- UIF registration mandatory
+- Payment frequency: Monthly
+- Tips policy: Pooled and distributed weekly
 
-## Benefits
-- Health insurance after 90 days
-- 401k eligibility after 1 year
-- Paid vacation: 1 week after 1 year
-- Employee meals: 50% discount
+## Uniform Standards
+- Black trousers (no jeans)
+- Restaurant-provided shirt
+- Closed black shoes
+- Name badge
+- Maintain hygiene per R638 regulations
+
+## Health & Safety (OHS Act)
+- Regular safety training
+- Fire evacuation procedures
+- First aid protocols
+- Incident reporting
+- COVID-19 protocols
+
+## Grievance Procedures
+- Internal resolution first
+- CCMA referral rights
+- Protected disclosures
+- Union representation rights
