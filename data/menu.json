@@ -1,0 +1,38 @@
+{
+  "appetizers": [
+    {
+      "name": "Pan-Seared Scallops",
+      "description": "Day-boat scallops, cauliflower purée, crispy pancetta",
+      "price": 18
+    },
+    {
+      "name": "Beef Tartare",
+      "description": "Hand-cut beef, quail egg, traditional garnishes, grilled sourdough",
+      "price": 16
+    }
+  ],
+  "entrees": [
+    {
+      "name": "Dry-Aged Ribeye",
+      "description": "14oz prime beef, roasted garlic, herbs, red wine reduction",
+      "price": 48
+    },
+    {
+      "name": "Pan-Roasted Salmon",
+      "description": "Scottish salmon, seasonal vegetables, citrus beurre blanc",
+      "price": 34
+    }
+  ],
+  "wines": [
+    {
+      "name": "Châteauneuf-du-Pape",
+      "vintage": "2018",
+      "price": {"bottle": 95, "glass": 18}
+    },
+    {
+      "name": "Cakebread Chardonnay",
+      "vintage": "2020",
+      "price": {"bottle": 85, "glass": 16}
+    }
+  ]
+}
