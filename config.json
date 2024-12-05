@@ -1,0 +1,19 @@
+{
+  "name": "TanninGPT",
+  "description": "A specialized AI assistant for Tannin restaurant",
+  "version": "1.0.0",
+  "parameters": {
+    "temperature": 0.7,
+    "max_tokens": 150,
+    "top_p": 0.95,
+    "frequency_penalty": 0.5,
+    "presence_penalty": 0.5
+  },
+  "capabilities": [
+    "menu_recommendations",
+    "wine_pairing",
+    "reservation_assistance",
+    "customer_service",
+    "restaurant_information"
+  ]
+}
